@@ -6,5 +6,4 @@ Belajar kelas Belajar Dasar Git dengan GitHub. (Progres 35%)
 - Belajar tentang apa itu Git dan Github
 - Belajar dasar - dasar Git
 
-
-tes brench
+**Kamis 16 Februari 2023**

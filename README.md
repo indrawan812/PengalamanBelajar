@@ -7,3 +7,5 @@ Belajar kelas Belajar Dasar Git dengan GitHub. (Progres 35%)
 - Belajar dasar - dasar Git
 
 **Kamis 16 Februari 2023**
+
+**jumat 17 Februari 2023**
